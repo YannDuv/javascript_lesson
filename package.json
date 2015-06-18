@@ -1,0 +1,28 @@
+{
+  "name": "javascript_lesson",
+  "version": "1.0.0",
+  "description": "Created in 10 days by Netscape, the Javascript language, take is name and part of its inspiration from Java. However its architecture and usage is very different, but it has the advantage that every device that has a web navigator can execute javascript, and that is almost all the user's devices.",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YannDuv/javascript_lesson.git"
+  },
+  "author": "Yann Duval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YannDuv/javascript_lesson/issues"
+  },
+  "homepage": "https://github.com/YannDuv/javascript_lesson",
+  "devDependencies": {
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "load-grunt-tasks": "^3.2.0",
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
